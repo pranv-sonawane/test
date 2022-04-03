@@ -8,7 +8,6 @@ int main()
     if (x>y){
         z=x;
         cout<<"the bigger number is "<<z;
-
    }
 
 if (y>x)
